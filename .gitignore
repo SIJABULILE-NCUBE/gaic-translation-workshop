@@ -1,0 +1,25 @@
+# Installed Node.js packages
+node_modules/
+
+# Environment variables and sensitive information
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
+npm-debug.log*
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local cache
+.cache/
